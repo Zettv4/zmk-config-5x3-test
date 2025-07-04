@@ -86,7 +86,7 @@
         Layer_Base {
             bindings = <
 &none  &kp Q             &kp W             &kp F               &kp P             &kp G          &kp J          &kp L             &kp U          &kp Y         &caps_word  &none
-&none  &hold_tap_early LGUI A  &hold_tap_early LALT R  &hold_tap_early LCTRL S  &hold_tap_early LSHIFT T  &kp D          &kp H          &hold_tap_early RSHIFT N  &hold_tap_early RCTRL E  &hold_tap_early RALT I  &kp O         &none
+&none  &kp A  &hold_tap_early LALT R  &hold_tap_early LCTRL S  &hold_tap_early LSHIFT T  &kp D          &kp H          &hold_tap_early RSHIFT N  &hold_tap_early RCTRL E  &hold_tap_early RALT I  &kp O         &none
 &none  &kp Z             &kp X             &Tap_Dance           &Tap_Dance_1      &kp B          &kp K          &kp M             &kp BSPC       &kp DELETE    &sl 5       &none
                                &kp TAB          &lt 1 ESCAPE      &kp SPACE          &kp ENTER        &mo 2         &Lalt_R
             >;
